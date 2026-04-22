@@ -122,7 +122,7 @@ export default function Infrastructure() {
                   alt: 'Heavy duty press machine'
                 },
                 { 
-                  title: 'ARGON WELDING', 
+                  title: 'ARC WELDING', 
                   img: 'https://images.unsplash.com/photo-1536939459926-301728717817?auto=format&fit=crop&q=80&w=800',
                   alt: 'Precision TIG welding'
                 },
