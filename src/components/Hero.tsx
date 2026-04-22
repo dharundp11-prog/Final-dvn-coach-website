@@ -55,7 +55,7 @@ export default function Hero({ onInquiryClick }: HeroProps) {
                 BUS BODY BUILDER. <br />
                 <span className="relative inline-block mt-2 mb-1 group">
                   <span className="text-gold-gradient animate-shimmer-gold drop-shadow-[0_0_15px_rgba(255,184,0,0.4)]">
-                    <span className="font-black">60+ YRS</span> 
+                    <span className="font-black">60 YEARS</span> 
                     <span className="font-bold"> OF LEGACY</span>
                   </span>
                   <motion.div 
