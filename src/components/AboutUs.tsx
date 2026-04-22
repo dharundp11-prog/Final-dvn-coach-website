@@ -90,7 +90,7 @@ export default function AboutUs() {
             <div className="relative pl-12">
               <Quote className="absolute top-0 left-0 text-amber-burnt/20 w-10 h-10" strokeWidth={1.5} />
               <p className="text-white/80 italic text-lg md:text-xl leading-relaxed mb-6 font-medium">
-                "I have always been put into the extreme hard situations to test out my abilities and with which I and my team have come in this journey. The brand run in my blood line for 4 generations and will always keep up the pride of my company always."
+                "I have always been put into the extreme hard situations to test out my abilities and with which I and my team have come in this journey. The brand runs in my blood line for 4 generations and will always keep up the pride of my company always."
               </p>
               <div className="flex flex-col">
                 <span className="font-bold text-amber-burnt uppercase tracking-[0.3em] text-sm mb-1">VIJAYA BALAJI</span>
