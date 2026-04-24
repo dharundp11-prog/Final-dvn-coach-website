@@ -45,16 +45,16 @@ export default function AboutUs() {
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 1 }}
             viewport={{ once: true }}
-            className="flex flex-col group"
+            className="flex flex-col group max-w-md mx-auto w-full"
           >
-            <div className="aspect-[3/2] rounded-2xl overflow-hidden border border-white/10 mb-8 relative">
+            <div className="aspect-[3/4] rounded-2xl overflow-hidden border border-white/10 mb-8 relative bg-zinc-900/50 shadow-2xl shadow-black/50">
               <img 
                 src="https://res.cloudinary.com/dxufff4iw/image/upload/v1777015378/Screenshot_2026-04-24_at_12.51.46_PM_x6dngx.png" 
                 alt="GA Ravindran - Mentor and Chief Advisor"
                 referrerPolicy="no-referrer"
-                className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-1000 scale-100 group-hover:scale-105"
+                className="w-full h-full object-cover transition-all duration-1000"
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-60" />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-40 pointer-events-none" />
             </div>
             
             <div className="relative pl-12">
@@ -75,16 +75,16 @@ export default function AboutUs() {
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 1, delay: 0.2 }}
             viewport={{ once: true }}
-            className="flex flex-col group"
+            className="flex flex-col group max-w-md mx-auto w-full"
           >
-            <div className="aspect-[3/2] rounded-2xl overflow-hidden border border-white/10 mb-8 relative">
+            <div className="aspect-[3/4] rounded-2xl overflow-hidden border border-white/10 mb-8 relative bg-zinc-900/50 shadow-2xl shadow-black/50">
               <img 
                 src="https://res.cloudinary.com/dxufff4iw/image/upload/v1777015379/Screenshot_2026-04-24_at_12.52.22_PM_soiqsm.png" 
                 alt="VIJAYA BALAJI - CMD of DVN COACH"
                 referrerPolicy="no-referrer"
-                className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-1000 scale-100 group-hover:scale-105"
+                className="w-full h-full object-cover transition-all duration-1000"
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-60" />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-40 pointer-events-none" />
             </div>
             
             <div className="relative pl-12">
