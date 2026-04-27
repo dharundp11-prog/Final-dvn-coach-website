@@ -120,10 +120,10 @@ export default function AboutUs() {
           >
             <div className="aspect-square rounded-2xl overflow-hidden border border-white/10 mb-8 relative bg-zinc-900/50 shadow-2xl shadow-black/50">
               <img 
-                src="https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=800" 
+                src="https://res.cloudinary.com/dxufff4iw/image/upload/v1777294826/WhatsApp_Image_2026-04-27_at_18.27.51_neag1o.jpg" 
                 alt="Director"
                 referrerPolicy="no-referrer"
-                className="w-full h-full object-cover transition-all duration-1000"
+                className="w-full h-full object-cover object-top transition-all duration-1000"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-40 pointer-events-none" />
             </div>
@@ -134,7 +134,7 @@ export default function AboutUs() {
                 "We believe in constant innovation and unwavering commitment to quality. Our journey is defined by the trust our clients place in us and the excellence we deliver in every project."
               </p>
               <div className="flex flex-col">
-                <span className="font-bold text-amber-burnt uppercase tracking-[0.3em] text-sm mb-1">Name</span>
+                <span className="font-bold text-amber-burnt uppercase tracking-[0.3em] text-sm mb-1">V.Moorthy B.E</span>
                 <span className="text-[10px] uppercase tracking-[0.4em] text-white/40 font-bold">Founder</span>
               </div>
             </div>
